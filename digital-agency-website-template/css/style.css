@@ -9473,4 +9473,9 @@ h6,
 
 body {
   overflow-x: hidden;
+}
+
+.logo {
+  width: 100%;
+  height: 170px;
 }/*# sourceMappingURL=style.css.map */
